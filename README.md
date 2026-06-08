@@ -38,19 +38,4 @@ python BRIDGE.py
 └── README.md
 ```
 
-## Citation
 
-If you find this work useful, please consider citing our paper:
-
-```bibtex
-@article{BRIDGE2026,
-  title={BRIDGE},
-  author={Author Names},
-  journal={TBD},
-  year={2026}
-}
-```
-
-## License
-
-This project is released under the MIT License.
